@@ -79,3 +79,18 @@ body {
     gap: 24px;
     margin-top: 48px;
 }
+
+.conteudo-secundario-titulo {
+    border-top: 0.4px  groove #6C4A4A;
+    padding-top: 48px;
+    font-weight: 400;
+    font-size: 24px;
+    color: #6C4A4A;
+    margin-bottom: 16px;
+}
+
+.conteudo-secundario-paragrafo {
+    font-weight: 300;
+    font-size: 18px;
+    color: #6C4A4A;
+}
